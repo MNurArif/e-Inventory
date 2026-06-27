@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>E-inventory</title>
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Vue -->
+  <script src="https://unpkg.com/vue@3"></script>
+  
+  <!-- Vue Router -->
+  <script src="https://unpkg.com/vue-router@4"></script>
+  
+  <!-- Axios -->
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body class="bg-gray-100">
+  <div id="app">
+    <router-view></router-view>
+  </div>
+
+  <!-- Load file-file JS (path sudah benar karena index.html di root frontend-spa) -->
+  <script src="js/axios.js"></script>
+  <script src="js/components/Login.js"></script>
+  <script src="js/components/Dashboard.js"></script>
+  <script src="js/components/Kategori.js"></script>
+  <script src="js/components/Supplier.js"></script>
+  <script src="js/components/Barang.js"></script>
+  <script src="router.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
