@@ -7,7 +7,7 @@ Aplikasi **E-Inventory** berbasis **CodeIgniter 4** yang menyediakan fitur login
 ## Teknologi yang Digunakan
 
 - CodeIgniter 4
-- PHP 8.x
+- PHP
 - MySQL
 - Composer
 - XAMPP
@@ -20,8 +20,8 @@ Aplikasi **E-Inventory** berbasis **CodeIgniter 4** yang menyediakan fitur login
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/MNurArif/E-Inventory.git
-cd E-Inventory
+git clone https://github.com/MNurArif/e-Inventory.git
+cd e-Inventory
 ```
 
 ---
@@ -205,31 +205,31 @@ app
 
 ### Halaman Login
 
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/6082f060-b97f-4ddc-a5ec-751e53f80d4f" />
 
 ---
 
 ### Dashboard
 
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/40458cb2-065e-418a-9d51-03a66d2ae5dd" />
 
 ---
 
 ### Data Kategori
 
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="837" alt="image" src="https://github.com/user-attachments/assets/92e115d3-3234-4449-b059-821c9a500e80" />
 
 ---
 
 ### Data Supplier
 
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="837" alt="image" src="https://github.com/user-attachments/assets/04848fd5-3bee-47ea-ad7a-a32ce94461a2" />
 
 ---
 
 ### Data Barang
 
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="837" alt="image" src="https://github.com/user-attachments/assets/e994aa23-46a5-4ff5-bb38-73fa8cfa9f2f" />
 
 ---
 
